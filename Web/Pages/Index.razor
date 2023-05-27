@@ -1,0 +1,64 @@
+﻿@inject Blazored.LocalStorage.ILocalStorageService localStore
+@page "/"
+@*<h1>Your LocalStorage Note</h1>
+
+<textarea @bind="noteContent" />
+<br />
+<button @onclick="UpdateLocalStorage">Save</button>
+<button @onclick="ClearLocalStorage">Clear</button>*@
+
+@using Web.Auth;
+@inject IJSRuntime js
+@inject IUserService UserService
+<PageTitle>Index</PageTitle>
+
+<h1>Интернет-магазин Рукоделия</h1>
+
+@*Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+*@
+<AuthorizeView>
+    <Authorized>
+        <hi>Welcome, @context.User.Identity.Name!</hi>
+    </Authorized>
+    <NotAuthorized>
+        <hi>Добро пожаловать в наш магазин для рукоделия!</hi>
+    </NotAuthorized>
+</AuthorizeView>
+
+<AuthorizeView>
+    <Authorized>
+        <br /><br />
+        <button class="btn btn-outline-primary" @onclick="DisplayGreetingAlert">Greeting</button>
+    </Authorized>
+</AuthorizeView>
+
+@code {
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationState { get; set; }
+
+    private async Task DisplayGreetingAlert()
+    {
+        var authState = await authenticationState;
+        var message = $"hello, {authState.User.Identity.Name}";
+        await js.InvokeVoidAsync("alert", message);
+    }
+    const string noteKey = "note";
+    string noteContent;
+    public async void UpdateLocalStorage()
+    {
+        await localStore.SetItemAsync(noteKey, noteContent);
+    }
+
+    public async void ClearLocalStorage()
+    {
+        noteContent = "";
+        await localStore.ClearAsync();
+    }
+
+    private async Task OnInitializedAsycnc()
+    {
+        noteContent = await localStore.GetItemAsync<string>(noteKey);
+    }
+}

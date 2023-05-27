@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendApi</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApi.Controllers.CorzinaController.GetAll">
+            <summary>
+            Получение списка всей информации о товарах в заказе
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.CorzinaController.GetById(System.Int32,System.Int32)">
+            <summary>
+            Получение покинформации о товарах в заказеупателя по id заказа и id1 тоавра
+            </summary>
+            <param name="id"></param>
+            <param name="id1"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.CorzinaController.Add(BackendApi.Contracts.Corzina.CreateCorzinaRequest)">
+            <summary>
+            Создание новой корзины об информации о товарах в будущем заказе
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.CorzinaController.Update(BackendApi.Contracts.Corzina.CreateCorzinaRequest)">
+            <summary>
+            Изменение товаров в корзине отложенных товаров
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.CorzinaController.Delete(System.Int32,System.Int32)">
+            <summary>
+            Удаление корзины с товарами
+            </summary>
+            <param name="id"></param>
+            <param name="id1"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.HaracterysticaController.GetAll">
+            <summary>
+            Получение списка всех характеристик товаров
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.HaracterysticaController.GetById(System.Int32)">
+            <summary>
+            Получение характеристик товаров по id категории
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.HaracterysticaController.Add(BackendApi.Contracts.Haracterystica.CreateHaracterysticaRequest)">
+            <summary>
+            Создание новых характеристик, категорий для товаров
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.HaracterysticaController.Update(BackendApi.Contracts.Haracterystica.CreateHaracterysticaRequest)">
+            <summary>
+            Изменение информации характеристик товара
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.HaracterysticaController.Delete(System.Int32)">
+            <summary>
+            Удаление зарактеристик товара
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.TovarController.GetAll">
+            <summary>
+            Получение списка всех товаров
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.TovarController.GetById(System.Int32,System.Int32)">
+            <summary>
+            Получение товаров по id
+            </summary>
+            <param name="id"></param>
+            <param name="id1"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.TovarController.Add(BackendApi.Contracts.Tovar.CreateTovarRequest)">
+            <summary>
+            Создание нового товара
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.TovarController.Update(BackendApi.Contracts.Tovar.CreateTovarRequest)">
+            <summary>
+            Изменение информации о товаре
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.TovarController.Delete(System.Int32)">
+            <summary>
+            Удаление товара
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.GetAll">
+            <summary>
+            Получение списка всех покупатлей БД 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.GetById(System.Int32)">
+            <summary>
+            Получение покупателя по id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Add(BackendApi.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             POST /Todo
+             {
+             "fio": "Иванов Иван Иванович",
+             "phone": "+79064493491",
+             "email": "renkoм@ivangmail.com",
+             "password": "!Pa$$word123@",
+             "adres": "г. Москва Ул. Генерала Белова, дом 6"
+             }
+            
+             </remarks>
+             <param name="request"></param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Update(BackendApi.Contracts.User.CreateUserRequest)">
+            <summary>
+            Изменение информации о покупателе
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Удаление покупателя из БД
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ZakazController.GetAll">
+            <summary>
+            Получение списка всех заказов
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ZakazController.GetById(System.Int32,System.Int32)">
+            <summary>
+            Получение заказа по id заказа и покупателя
+            </summary>
+            <param name="id"></param>
+            <param name="id1"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ZakazController.Add(BackendApi.Contracts.Zakaz.CreateZakazRequest)">
+            <summary>
+            Создание нового заказа
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ZakazController.Update(BackendApi.Contracts.Zakaz.CreateZakazRequest)">
+            <summary>
+            Изменение информации о заказе
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ZakazController.Delete(System.Int32)">
+            <summary>
+            Удаление заказа
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

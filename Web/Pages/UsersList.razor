@@ -1,0 +1,22 @@
+﻿@page "/users-list"
+@inject IUserService UserService
+
+<h2>Список покупателей</h2>
+
+@foreach (var user in users)
+{
+    <h5>ФИО: @user.Fio</h5>
+    <p>Электронная почта: @user.Email</p>
+    <p>Номер телефона: @user.Phone</p>
+    <hr />
+}
+
+
+@code {
+    private List<Pokupatel> users = new List<Pokupatel>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        users = await UserService.GetAll();
+    }
+}

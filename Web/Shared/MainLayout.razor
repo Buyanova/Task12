@@ -1,0 +1,131 @@
+﻿@using Web.Auth;
+@inherits LayoutComponentBase
+
+@inject AuthenticationStateProvider authStateProvider
+@inject NavigationManager navManager
+@inject IDialogService _dialogservice
+
+<PageTitle>Web</PageTitle>
+
+<MudThemeProvider/>
+<MudDialogProvider/>
+<MudSnackbarProvider Theme ="_theme"/>
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu></NavMenu>
+        @*<MudDrawer @bind-Open="_drawerOpen" Elevation="2">
+        <MudNavMenu>
+            <div class="ml-6 my-3">
+                <MudText Typo="Typo.caption">
+                    Название раздела
+                    </MudText>
+            </div>
+            <MudNavLink Href="/"
+            Icon="@Icons.Material.Filled.Home"
+            Match="NavLinkMatch.All">
+        <div class="d-flex">
+            Название ссылки
+        </div></MudNavLink>
+        </MudNavMenu>
+        </MudDrawer>*@
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <MudLink Class="sl-3" Href="https://docs.microsoft.com/aspnet/" target="_blank">About</MudLink>
+
+            @*<a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>*@
+            <AuthorizeView>
+                <Authorized>
+                    <MudMenu AnchorOrigin="Origin.BottomRight" Class="ml-3" LockScroll="true" 
+                    TransformOrigin="Origin.TopRight">
+                        <ActivatorContent>
+                            @*https://proprikol.ru/wp-content/uploads/2020/09/kartinki-milyh-zhivotnyh-52.jpg*@
+
+                            <MudAvatar Image="PUT_YOUR_uSER_URL"/>
+                        </ActivatorContent>
+                        <ChildContent>
+                        <div class="py-4" style="min-width: 220px">
+                            <MudText Class="px-6 pb-2"
+                            Typo="Typo.body2"
+                            @context.User.Identity.Name>
+                        </MudText>
+                        <MudText Class="px-6 pb-2"
+                        Typo="Typo.caption">
+                    Пользователь
+                </MudText>
+                <MudDivider Class="my-2"/>
+                <MudMenuItem>
+                    <a href="/user/profile"/>
+                    <div class="d-flex">
+                        <MudIcon Class="mx-2" Icon="@Icons.Material.Filled.Person"/>
+                        <MudText>Профиль</MudText>
+                    </div>
+                </MudMenuItem>
+                                <MudMenuItem>
+                                    <a href="/user/profile" />
+                                    <div class="d-flex">
+                                        <MudIcon Class="mx-2" Icon="@Icons.Material.Filled.ShoppingCartCheckout" />
+                                        <MudText>Заказы</MudText>
+                                    </div>
+                                </MudMenuItem>
+                            <div class="mt-4 mx-4">
+                                <MudButton Color="Color.Default" FullWidth="true" OnClick="Logout"
+                                StartIcon="@Icons.Material.Filled.Logout" Variant="Variant.Outlined">
+                                Выйти
+                            </MudButton>
+                            </div>
+                        </div>
+                        </ChildContent>
+                    </MudMenu>
+                    <a @onclick="Logout" href="javascript:void(0)">Logout</a>
+                </Authorized>
+                <NotAuthorized>
+                    <MudLink Class="ml-3" Href="/login">Login</MudLink>
+                    <MudLink Class="ml-3" Href="/registation">Registration</MudLink>
+                    @*<a href="/login">Login</a>*@
+                </NotAuthorized>
+            </AuthorizeView>
+        </div>
+        
+        <article class="content px-4">
+            <MudLayout>
+                <MudAppBar Elevation="0">
+                    <MudSpacer />
+                    <MudTooltip Arrow="true" Text="Интернет-магазин Рукоделия">
+                    <MudIconButton Class="mx-3" Color="Color.Default" Icon="@Icons.Custom.Brands.GitHub" Link="PUT_YOUR_LINK" Target="_blank" />
+                    </MudTooltip>
+                </MudAppBar>
+
+
+
+                <MudMainContent>
+                    <MudContainer Class="mb-16 mt-4">
+                        @Body
+                    </MudContainer>
+                </MudMainContent>
+            </MudLayout>
+                
+        </article>
+    </main>
+</div>
+
+
+
+@code {
+    bool _drawerOpen = true;
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+    private async Task Logout()
+    {
+        var customAuthStateProvider = (CustomAuthenticationStateProvider)authStateProvider;
+        await customAuthStateProvider.UpdateAuthenticationStateAsync(null);
+        navManager.NavigateTo("/", true);
+    }
+}
+
+

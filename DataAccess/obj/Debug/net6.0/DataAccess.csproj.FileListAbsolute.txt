@@ -1,0 +1,136 @@
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\10_Создание клиентского веб-приложения\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\11_Внедрение авторизации и аутентификации\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\12_Формирование страниц MudBlazor\BackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

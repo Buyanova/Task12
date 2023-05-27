@@ -1,0 +1,23 @@
+﻿@page "/goods-list"
+@inject ITovarService TovarService
+
+
+
+<h2>Список товаров:</h2>
+
+@foreach(var tovar in tovars)
+{
+    <h5>Товар: @tovar.Name</h5>
+    <p>Цена: @tovar.Price</p>
+    <hr />
+}
+
+
+@code {
+    private List<Tovar> tovars = new List<Tovar>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        tovars = await TovarService.GetAll();
+    }
+}

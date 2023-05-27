@@ -1,0 +1,52 @@
+﻿@page "/registation"
+@using Web.Auth;
+@inject IUserService UserService
+@inject IJSRuntime js
+@inject AuthenticationStateProvider authenStateProvider
+@inject NavigationManager navManager
+
+<div class="row">
+    <div class="col-lg-4 offset-lg-4 pt-4 pb-4 border">
+        <div class="mb-3 text-center">
+            <h3>Registation</h3>
+        </div>
+        <div class="mb-3">
+            <laber>FIO</laber>
+            <input @bind="model.FIO" type="text" class="form-control" placeholder="FIO" />
+        </div>
+        <div class="mb-3">
+            <label>Phone</label>
+            <input @bind="model.Phone" type="number" class="form-control" placeholder="Phone" />
+        </div>
+        <div class="mb-3">
+            <label>Email</label>
+            <input @bind="model.Email" type="email" class="form-control" placeholder="NewLogin" />
+        </div>
+        <div class="mb-3">
+            <label>Password</label>
+            <input @bind="model.Password" type="password" class="form-control" placeholder="NewPassword" />
+        </div>
+        <div class="mb-3 d-grid gap-2">
+            <button @onclick="Authenticate" class="btn btn-primary">Registration</button>
+        </div>
+    </div>
+</div>
+
+@code {
+    private class Model
+    {
+        public string FIO { get; set; }
+        public string Phone { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+
+    private Model model = new Model();
+
+    private async Task Authenticate()
+    {
+
+        var custonAuthStateProvider = (CustomAuthenticationStateProvider)authenStateProvider;
+
+    }
+}

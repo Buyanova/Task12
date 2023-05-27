@@ -1,0 +1,15 @@
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
